@@ -42,8 +42,8 @@ This was the most fitting method because as a business the goal is to make profi
 ### Representation of top 1000 movie productions grouped by genres
 ![first_1000_genre_magnitudes](https://user-images.githubusercontent.com/104377216/169721604-71934c0c-0e6b-4a52-8636-23230943dc14.jpg)
 
-## Movie genres vs average production budget
-#![genres_vs_budgets](https://user-images.githubusercontent.com/104377216/169721640-10a384b5-aad7-4273-8235-f07b34024279.jpg)
+### Movie genres vs average production budget
+![genres_vs_budgets](https://user-images.githubusercontent.com/104377216/169721640-10a384b5-aad7-4273-8235-f07b34024279.jpg)
 
 ### Movie genres vs average grossing
 ![genres_vs_grossing](https://user-images.githubusercontent.com/104377216/169721666-3b5efb02-c03c-4fd0-a1d1-213d58d2b0f3.jpg)
